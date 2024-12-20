@@ -43,7 +43,7 @@
                             <img src="~/Img/@Model.Products[i].Image" class="img-thumbnail" alt="" style="max-height: 75px;">
                         </td>
                         <td>@Model.Products[i].Name</td>
-                        <td>@Model.Products[i].Price.ToString("C")</td>
+                        <td>@Model.Products[i].Price.ToString()</td>
                         <td>
                             <div class="form-check">
                                 <input class="form-check-input" type="checkbox" asp-for="@Model.Products[i].IsActive">
