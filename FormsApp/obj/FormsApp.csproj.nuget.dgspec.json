@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj": {}
+    "c:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj": {
+    "c:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj",
+        "projectUniqueName": "c:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj",
         "projectName": "FormsApp",
-        "projectPath": "C:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj",
+        "projectPath": "c:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\FormsApp.csproj",
         "packagesPath": "C:\\Users\\rahim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\obj\\",
+        "outputPath": "c:\\Users\\rahim\\OneDrive\\Masaüstü\\Forms\\FormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahim\\AppData\\Roaming\\NuGet\\NuGet.Config"

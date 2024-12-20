@@ -1,0 +1,8 @@
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfoInputs.cache
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfo.cs
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.csproj.CoreCompileInputs.cache
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cache
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cs
+c:\Users\rahim\OneDrive\Masaüstü\Forms\FormsApp\obj\Debug\net8.0\FormsApp.sourcelink.json

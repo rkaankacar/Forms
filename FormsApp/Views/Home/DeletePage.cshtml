@@ -1,0 +1,14 @@
+@model Product
+@{
+    ViewData["Title"] = "Delete Confirmation";
+}
+<div class="card p-4 shadow-sm text-center">
+    <p class="fs-5">
+        <strong>@Model.Name</strong> isimli ürünü silmek istiyor musunuz?
+    </p>
+    <form asp-action="Delete" method="post" class="d-inline">
+        <input type="hidden" asp-for="ProductId">
+        <button type="submit" class="btn btn-danger">Evet</button>
+    </form>
+    <a href="/home/index" class="btn btn-secondary ms-2">Hayır</a>
+</div>
